@@ -1,0 +1,35 @@
+     /* Theme 2 */
+   /* Backgrounds */
+   --main-bg-theme2: hsl(0, 2%, 89%);
+   --toggle-bg-theme2: hsl(0, 12%, 82%);
+   --btn-bg-theme2: hsl(0, 12%, 82%);
+   --screen-bg-theme2: hsl(0, 0%, 100%);
+
+   /* Button */
+   --btn-second-bg-theme2: hsl(185, 42%, 37%);
+   --btn-second-shadow-theme2: hsl(185, 42%, 37%);
+   --equals-theme2: hsl(6, 63%, 50%);
+   --btn-primary-bg-theme2: hsl(45, 7%, 89%);
+   --btn-primary-shadow-theme2: hsl(35, 11%, 61%);
+
+   /* Text */
+   --text1-theme2:  hsl(192, 12%, 8%);
+   --text2-theme2: hsl(0, 0, 100%);
+
+     /* Theme 3 */
+   /* Backgrounds */
+   --main-bg-theme3: hsl(268, 75%, 9%);
+   --toggle-bg-theme3: hsl(0, 0%, 90%);
+   --btn-bg-theme3: hsl(0, 0%, 90%);
+   --screen-bg-theme3: hsl(224, 36%, 15%);
+
+   /* Button */
+   --btn-second-bg-theme3: hsl(225, 21%, 49%);
+   --btn-second-shadow-theme3: hsl(223, 31%, 24%);
+   --equals-theme3: hsl(6, 63%, 50%);
+   --btn-primary-bg-theme3: hsl(30, 25%, 89%);
+   --btn-primary-shadow-theme3: hsl(28, 16%, 65%);
+
+   /* Text */
+   --text1-theme3:  hsl(221, 14%, 31%);
+   --text2-theme3: hsl(0, 0, 100%);
