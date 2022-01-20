@@ -1,20 +1,10 @@
 # Frontend Mentor - Calculator App Challange Hub
 
-## Table of contents
+### Links
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- Live Site URL: 
+https://zulfikar321.github.io/Calculator-App-Challange-Hub/
 
-## Overview
 
 ### The challenge
 
@@ -30,10 +20,7 @@ Your users should be able to:
 ![calc2](https://github.com/zulfikar321/Calculator-App-Challange-Hub/blob/main/calc-theme2.png?raw=true)
 ![calc3](https://github.com/zulfikar321/Calculator-App-Challange-Hub/blob/main/calc-theme3.png?raw=true)
 
-### Links
 
-- Live Site URL: 
-https://zulfikar321.github.io/Calculator-App-Challange-Hub/
 
 ## My process
 
