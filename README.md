@@ -27,8 +27,8 @@ Your users should be able to:
 
 ### Screenshot
 ![calc1](https://github.com/zulfikar321/Calculator-App-Challange-Hub/blob/main/calc-theme1.png?raw=true)
-
-
+![calc2](https://github.com/zulfikar321/Calculator-App-Challange-Hub/blob/main/calc-theme2.png?raw=true)
+![calc3](https://github.com/zulfikar321/Calculator-App-Challange-Hub/blob/main/calc-theme3.png?raw=true)
 
 ### Links
 
